@@ -7,7 +7,14 @@ public class Problem_1 : MonoBehaviour
     //Call your custom functions and print out the returns values of boxes 12,4 and 13.5f by 1.3f.
     //You should have 48 and 17.55 as your return print outs. 
     void Start()
+  
     {
+        { Area(13.5,1.3)
+                }
+
+        int Area(int a, int b)
+
+        return a*b
         
     }
 
